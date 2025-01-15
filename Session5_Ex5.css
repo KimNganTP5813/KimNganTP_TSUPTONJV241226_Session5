@@ -1,0 +1,11 @@
+* {  
+    margin: 0 auto;
+}
+
+.box {
+    background-color: cadetblue;
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top: 300px;
+}
