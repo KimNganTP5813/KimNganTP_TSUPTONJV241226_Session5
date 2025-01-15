@@ -1,0 +1,33 @@
+.section {
+    width: 550px;
+    height: 500px;
+    border: 2px solid gray;
+}
+
+a {
+    font-size: 30px;
+    position: absolute;
+    top: 360px;
+    width: 550px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: lightskyblue;
+}
+
+img {
+    width: 550px;
+}
+
+div {
+    background-color: rgba(80, 80, 80, 0.5);
+    font-weight: bolder;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 310px ;
+}
