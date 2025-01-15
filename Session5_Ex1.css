@@ -1,0 +1,6 @@
+button {
+    border-top: solid red;
+    border-right: dotted purple;
+    border-bottom: double green;
+    border-left: 1mm ridge blue;
+}
