@@ -1,0 +1,128 @@
+.box {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+    transition: background-color 0.5s ease;
+}
+
+.box:hover {
+    background-color: gray;
+}
+
+.box1 {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+    transition: background-color 0.5s ease;
+}
+
+.box1:hover {
+    background-color: lightskyblue;
+}
+
+.box2 {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+    transition: background-color 0.5s ease;
+}
+
+.box2:hover {
+    font-size: 45px;
+    width: 130px;
+    height: 40px;
+    margin: 30px;
+    padding: 60px;
+}
+
+.box3 {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    width: 130px;
+    height: 40px;
+    margin: 30px;
+    padding: 60px;
+    transition: background-color 0.5s ease;
+}
+
+.box3:hover {
+    font-size: 30px;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+}
+
+.box4 {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+}
+
+.box4:hover {
+    transform: rotate(30deg) ;
+}
+
+.box5 {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+    transition: 0.5s ease;
+}
+
+.box5:hover {
+    border-radius: 50%;
+}
+
+.box6 {
+    background-color: lightgray;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    padding: 40px;
+    border: 10px solid lightgray;
+    transition: 0.5s ease;
+}
+
+.box6:hover {
+    border-style: solid;
+    border-color: lightskyblue;
+}
+
